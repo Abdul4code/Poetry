@@ -1,1 +1,1 @@
-id,name,level,followers,following,message sent,message recieved,membership,rank,country, gold, silver, bronze, honourable, front page
+id,followers,following,message_out,message_in,membership,level,region,gold,silver,bronze,hm
